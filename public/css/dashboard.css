@@ -4,7 +4,7 @@
  .gt-usser-account-list{ background-color: #ffffff;border-radius: 5px;float:left;width:100%;position:relative;}
  .gt-usser-account-list ul { margin:0; padding:0;}
  .gt-usser-account-list ul li{ padding:0 0; margin:0; list-style:none; border-bottom:2px solid #eeeeee;}
- .gt-usser-account-list ul li a{ outline:none; text-decoration:none; text-transform:uppercase; font-size:15px; color:#666666; font-weight:600; display:block; position:relative;}
+ .gt-usser-account-list ul li a{ outline:none; text-decoration:none; text-transform:uppercase; font-size:18px; padding: 16px; color:#000066; font-weight:600; display:block; position:relative;}
  .gt-usser-account-list ul li a:after{ content:'\e922';font-family:'icomoon';position:absolute; right:40px;top:38%;font-size:11px;line-height:15px; visibility:hidden; opacity:0;}
  .gt-usser-account-list ul li:hover a:after,
  .gt-usser-account-list ul li.active a:after{ opacity:1; visibility:visible; right:10px;}
