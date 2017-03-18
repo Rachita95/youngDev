@@ -21,5 +21,14 @@ class FrontController extends Controller
         return view('login_register');
     }
 
+    public function comingSoon()
+    {
+        return view('coming_soon');
+    }
+
+    public function techNews()
+    {
+        return view('tech_news');
+    }
 
 }

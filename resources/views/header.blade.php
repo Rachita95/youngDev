@@ -79,14 +79,13 @@
                         <li><a href="#">Events</a></li>
                         <li><a href="javascript:avoid(0);">Courses</a>
                             <ul>
-                                <li><a href="#">OpenOffice Installation</a></li>
-                                <li><a href="#">OpenOffice Writer</a></li>
+                                <li><a href="/what-is-openoffice">OpenOffice Installation</a></li>
+                                <li><a href="/what-is-writer">OpenOffice Writer</a></li>
                                 <li><a href="/what-is-impress">OpenOffice Impress</a></li>
-                                <li><a href="#">OpenOffice Spreadsheet</a></li>
                                 <li><a href="/digilocker-introduction">Digilocker</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">Tech News</a></li>
+                        <li><a href="/tech-news">Tech News</a></li>
                         <li><a href="/contact-us">Contact Us</a></li>
 
                     </ul>

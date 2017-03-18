@@ -13,10 +13,11 @@
 
 /** main pages common in whole website */
 Route::get('/', 'FrontController@index');
-
+Route::get('/tech-news', 'FrontController@techNews');
 Route::get('/contact-us', 'FrontController@contactUs');
 
 Route::get('/login-register', 'FrontController@loginRegister');
+Route::get('/coming-soon', 'FrontController@comingSoon');
 
  /** ************************************* */
 
@@ -64,5 +65,10 @@ Route::get('/digilocker-view-issuers', 'TutorialsController@digilockerViewIssuer
 
 /**********************************************************/
 
+/** openoffice impress *********************************/
+Route::get('/google-self-driving-car', 'BlogController@googleSelfDrive');
+Route::get('/college-dropouts', 'BlogController@collegeDropouts');
+Route::get('/digilocker', 'BlogController@digilocker');
+/** ****************************************************88 */
 
  /*******************************************************/

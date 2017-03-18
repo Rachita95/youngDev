@@ -47,7 +47,6 @@
                             <div class="gt_banner_service service_bg_1 default_width" style="background-image:url(extra-images/courses-01.jpg);">
                                 <i class="icon-commerce"></i>
                                 <h4><a href="/what-is-openoffice">OPENOFFICE INSTALLATION</a></h4>
-                                <p>Consectetur adipisicing elit</p>
                                 <a href="/what-is-openoffice">View More</a>
                             </div>
                         </div>
@@ -55,7 +54,6 @@
                             <div class="gt_banner_service service_bg_2 default_width" style="background-image:url(extra-images/courses-02.jpg);">
                                 <i class="icon-computer-1"></i>
                                 <h4><a href="/what-is-writer">OPENOFFICE WRITER</a></h4>
-                                <p>Consectetur adipisicing elit</p>
                                 <a href="/what-is-writer">View More</a>
                             </div>
                         </div>
@@ -63,7 +61,6 @@
                             <div class="gt_banner_service service_bg_3 default_width" style="background-image:url(extra-images/courses-03.jpg);">
                                 <i class="icon-open-book"></i>
                                 <h4><a href="/what-is-impress">OPENOFFICE IMPRESS</a></h4>
-                                <p>Consectetur adipisicing elit</p>
                                 <a href="/what-is-impress">View More</a>
                             </div>
                         </div>
@@ -72,32 +69,29 @@
                         <div class="col-md-4 no_padding wow slideInUp">
                             <div class="gt_banner_service service_bg_2 default_width" style="background-image:url(extra-images/courses-01.jpg);">
                                 <i class="icon-commerce"></i>
-                                <h4><a href="">SPREADSHEET</a></h4>
-                                <p>Consectetur adipisicing elit</p>
-                                <a href="">View More</a>
+                                <h4><a href="/coming-soon">SPREADSHEET</a></h4>
+                                <a href="/coming-soon">View More</a>
                             </div>
                         </div>
                         <div class="col-md-4 no_padding wow slideInUp">
                             <div class="gt_banner_service service_bg_3 default_width" style="background-image:url(extra-images/courses-02.jpg);">
                                 <i class="icon-computer-1"></i>
                                 <h4><a href="/digilocker-introduction">DIGILOCKER</a></h4>
-                                <p>Consectetur adipisicing elit</p>
                                 <a href="/digilocker-introduction">View More</a>
                             </div>
                         </div>
                         <div class="col-md-4 no_padding wow slideInUp">
                             <div class="gt_banner_service service_bg_1 default_width" style="background-image:url(extra-images/courses-03.jpg);">
                                 <i class="icon-open-book"></i>
-                                <h4><a href="#">BEST INDUSTRY LEADERS</a></h4>
-                                <p>Consectetur adipisicing elit</p>
-                                <a href="#">View More</a>
+                                <h4><a href="/coming-soon">BLOGGING</a></h4>
+                                <a href="/coming-soon">View More</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <!--Banner Services Wrap End-->
-            <!--Explore All Courses Wrap End-->
+            <!--Explore All blogs Wrap start-->
             <section class="gt_courses_bg">
                 <div class="container">
                     <!--Heading Wrap Start-->
@@ -113,76 +107,75 @@
                     <div class="col-md-4 col-sm-6 wow slideInUp">
                         <div class="gt_blog_wrap default_width mb30">
                             <figure>
-                                <img src="extra-images/blog-grid-01.jpg" alt="">
+                                <img src="images/blogs/4.jpg" alt="" style="height: 200px;">
                                 <figcaption class="gt_gallery_style1_des">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                        <li><a href="extra-images/gallery-01.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
+                                        <li><a href="/google-self-driving-car"><i class="fa fa-link"></i></a></li>
+                                        <li><a href="images/blogs/4.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
                                     </ul>
-                                    <h3>Business Conference UK</h3>
+                                    <h3>GOOGLE SELF DRIVING CAR</h3>
                                 </figcaption>
                             </figure>
                             <div class="gt_blog_des default_width">
                                 <ul class="gt_event_meta">
-                                    <li><i class="fa fa-calendar"></i>8:00 am-5:00</li>
-                                    <li><i class="fa fa-user"></i>Locaion London</li>
+                                    <li><i class="fa fa-calendar"></i>March 5, 2017</li>
                                 </ul>
-                                <h6><a href="#">Along Communicate Directly With Experienced Teachers</a></h6>
-                                <p>Leo a feugiat metus semper torquent condimentum, ornare interdum suspendisse neque ultrices adipiscing, risus bibendum ultricies sagittis</p>
+                                <h6><a href="/google-self-driving-car">DON'T BE SCARED IF YOU FIND A CAR RACING WITHOUT A DRIVER : Google's self-driving car</a></h6>
+                                <p>Self-driving cars are automobiles that do not require human operation to navigate to a destination. </p>
                             </div>
-                            <a href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+                            <a href="/google-self-driving-car">Read More <i class="fa fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 wow slideInUp">
                         <div class="gt_blog_wrap default_width mb30">
                             <figure>
-                                <img src="extra-images/blog-grid-02.jpg" alt="">
+                                <img src="images/blogs/1.png" alt="" style="height: 200px;">
                                 <figcaption class="gt_gallery_style1_des">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                        <li><a href="extra-images/gallery-01.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
+                                        <li><a href="/college-dropouts"><i class="fa fa-link"></i></a></li>
+                                        <li><a href="images/blogs/1.png" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
                                     </ul>
-                                    <h3>Business Conference UK</h3>
+                                    <h3>ONE COMMON THING</h3>
                                 </figcaption>
                             </figure>
                             <div class="gt_blog_des default_width">
                                 <ul class="gt_event_meta">
-                                    <li><i class="fa fa-calendar"></i>8:00 am-5:00</li>
-                                    <li><i class="fa fa-user"></i>Locaion London</li>
+                                    <li><i class="fa fa-calendar"></i>March 8, 2017</li>
                                 </ul>
-                                <h6><a href="#">Along Communicate Directly With Experienced Teachers</a></h6>
-                                <p>Leo a feugiat metus semper torquent condimentum, ornare interdum suspendisse neque ultrices adipiscing, risus bibendum ultricies sagittis</p>
+                                <h6><a href="/college-dropouts">Find out what’s common to Steve Jobs, Mukesh Ambani, Bill Gates, Mark Zuckerberg, other than wealth</a></h6>
+                                <p>Other than possession of great wealth, one thing common to all of them -the four business leaders are college dropouts. </p>
                             </div>
-                            <a href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+                            <a href="/college-dropouts">Read More <i class="fa fa-long-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6 wow slideInUp">
                         <div class="gt_blog_wrap default_width mb30">
                             <figure>
-                                <img src="extra-images/blog-grid-03.jpg" alt="">
+                                <img src="images/blogs/5.png" alt="" style="height: 200px;">
                                 <figcaption class="gt_gallery_style1_des">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                        <li><a href="extra-images/gallery-01.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
+                                        <li><a href="/digilocker"><i class="fa fa-link"></i></a></li>
+                                        <li><a href="images/blogs/5.png" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
                                     </ul>
-                                    <h3>Business Conference UK</h3>
+                                    <h3>DIGITAL INDIA WITH DIGILOCKER</h3>
                                 </figcaption>
                             </figure>
                             <div class="gt_blog_des default_width">
                                 <ul class="gt_event_meta">
-                                    <li><i class="fa fa-calendar"></i>8:00 am-5:00</li>
-                                    <li><i class="fa fa-user"></i>Locaion London</li>
+                                    <li><i class="fa fa-calendar"></i>March 18, 2017</li>
                                 </ul>
-                                <h6><a href="#">Along Communicate Directly With Experienced Teachers</a></h6>
-                                <p>Leo a feugiat metus semper torquent condimentum, ornare interdum suspendisse neque ultrices adipiscing, risus bibendum ultricies sagittis</p>
+                                <h6><a href="/digilocker">DIGILOCKER DEFINITELY BRINGS TO YOU THE 'ACHHE DIN' WITH NO MORE TENSION TO CARRY DRIVING LICENSE.
+                                    </a></h6>
+                                <p>The Govt. of India has introduced DigiLocker that is a key initiative under Digital India.</p>
                             </div>
-                            <a href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+                            <a href="/digilocker">Read More <i class="fa fa-long-arrow-right"></i></a>
                         </div>
                     </div>
+
                     <!--Blog grid Wrap End-->
                 </div>
             </section>
-            <!--Explore All Courses Wrap Start-->
+            <!--Explore All blogs Wrap end-->
 
             <!--Why Choose Us Wrap Start-->
             <section class="gt_choose_bg">
