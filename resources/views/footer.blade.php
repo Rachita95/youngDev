@@ -21,54 +21,7 @@
     <div class="gt_footer1_bg default_width">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-6 wow zoomIn">
-                    <div class="gt_foo_about gt_widget_hdg">
-                        <h5>Our Sevices</h5>
-                        <ul>
-                            <li><a href="#">Courses</a></li>
-                            <li><a href="#">Events</a></li>
-                            <li><a href="#">Teachers</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Gdaducation</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 wow zoomIn">
-                    <div class="gt_foo_about gt_widget_hdg">
-                        <h5>My Account</h5>
-                        <ul>
-                            <li><a href="#">My Account</a></li>
-                            <li><a href="#">Order History</a></li>
-                            <li><a href="#">Wishlist</a></li>
-                            <li><a href="#">Newsletter</a></li>
-                            <li><a href="#">Special</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 wow zoomIn">
-                    <div class="gt_foo_about gt_widget_hdg">
-                        <h5>Our Support</h5>
-                        <ul>
-                            <li><a href="#">Contact Us</a></li>
-                            <li><a href="#">Shipping &#38; Taxes</a></li>
-                            <li><a href="#">Return Policy</a></li>
-                            <li><a href="#">Site Map</a></li>
-                            <li><a href="#">Conatct Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 wow zoomIn">
-                    <div class="gt_foo_about gt_widget_hdg">
-                        <h5>Information</h5>
-                        <ul>
-                            <li><a href="#">About Us</a></li>
-                            <li><a href="#">Top Sellers</a></li>
-                            <li><a href="#">Special Products</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Delivery Information</a></li>
-                        </ul>
-                    </div>
-                </div>
+
             </div>
 
             <!--Footer Contact Wrap Start-->
@@ -78,7 +31,7 @@
                         <div class="gt_foo_contact_des">
                             <i class="icon-phone"></i>
                             <div class="gt_foo_icon_des">
-                                <h5>(8) 111 22 333 444</h5>
+                                <h5>9999999999</h5>
                                 <span>Mon - fri 9am to 5pm </span>
                             </div>
                         </div>
@@ -87,7 +40,7 @@
                         <div class="gt_foo_contact_des">
                             <i class="icon-tool"></i>
                             <div class="gt_foo_icon_des">
-                                <h5>info@eduskill.com</h5>
+                                <h5>info@teknic.com</h5>
                                 <span>Online information </span>
                             </div>
                         </div>
@@ -96,8 +49,8 @@
                         <div class="gt_foo_contact_des wow zoomIn">
                             <i class="icon-pin"></i>
                             <div class="gt_foo_icon_des">
-                                <h5>New york Usa</h5>
-                                <span>787 New south  way CA </span>
+                                <h5>INDIA</h5>
+                                <span>DELHI</span>
                             </div>
                         </div>
                     </div>
@@ -112,8 +65,7 @@
     <div class="gt_copyright_wrap">
         <div class="container">
             <div class="gt_copyright_des">
-                <p>Copyright © <a href="#">Edu-skill </a> 2016. All rights reserved.</p>
-                <span>Created by: <a href="#">2goodtheme.com</a></span>
+                <p>Copyright © <a href="#">TEKNIC </a> 2016. All rights reserved.</p>
             </div>
         </div>
     </div>

@@ -80,9 +80,9 @@
                         <div class="col-md-4 no_padding wow slideInUp">
                             <div class="gt_banner_service service_bg_3 default_width" style="background-image:url(extra-images/courses-02.jpg);">
                                 <i class="icon-computer-1"></i>
-                                <h4><a href="#">DIGILOCKER</a></h4>
+                                <h4><a href="/digilocker-introduction">DIGILOCKER</a></h4>
                                 <p>Consectetur adipisicing elit</p>
-                                <a href="#">View More</a>
+                                <a href="/digilocker-introduction">View More</a>
                             </div>
                         </div>
                         <div class="col-md-4 no_padding wow slideInUp">
@@ -102,178 +102,84 @@
                 <div class="container">
                     <!--Heading Wrap Start-->
                     <div class="gt_hdg_1 default_width">
-                        <h3>Explore all the COURSES</h3>
-                        <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sit amet,color<br>tetuer adiois elit, aliquam eget nibh etibra</p>
+                        <h3>Explore all the Tech News</h3>
                         <span class="gt_hdg_left"></span>
                         <i class="icon-school"></i>
                         <span class="gt_hdg_right"></span>
                     </div>
                     <!--Heading Wrap End-->
 
-                    <!--Search Wrap Start-->
-                    <div class="row">
-                        <div class="col-md-9 col-sm-8 wow slideInUp">
-                            <div class="gt_course_search default_width">
-                                <form>
-                                    <input type="search" placeholder="Search Courses">
-                                    <a href="#"><i class="fa fa-search"></i></a>
-                                </form>
+                    <!--Blog Grid Wrap Start-->
+                    <div class="col-md-4 col-sm-6 wow slideInUp">
+                        <div class="gt_blog_wrap default_width mb30">
+                            <figure>
+                                <img src="extra-images/blog-grid-01.jpg" alt="">
+                                <figcaption class="gt_gallery_style1_des">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                        <li><a href="extra-images/gallery-01.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
+                                    </ul>
+                                    <h3>Business Conference UK</h3>
+                                </figcaption>
+                            </figure>
+                            <div class="gt_blog_des default_width">
+                                <ul class="gt_event_meta">
+                                    <li><i class="fa fa-calendar"></i>8:00 am-5:00</li>
+                                    <li><i class="fa fa-user"></i>Locaion London</li>
+                                </ul>
+                                <h6><a href="#">Along Communicate Directly With Experienced Teachers</a></h6>
+                                <p>Leo a feugiat metus semper torquent condimentum, ornare interdum suspendisse neque ultrices adipiscing, risus bibendum ultricies sagittis</p>
                             </div>
-                        </div>
-                        <div class="col-md-3 col-sm-4 wow slideInUp">
-                            <div class="gt_sort_wrap">
-                                <span>Sort by:</span>
-                                <label class="fa fa-angle-down"></label>
-                                <select>
-                                    <option>Popular</option>
-                                    <option>Popular</option>
-                                    <option>Popular</option>
-                                </select>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Search Wrap End-->
-
-                    <!--Courses List Wrap Start-->
-                    <div class="gt_courses_slider" id="gt_courses_slider">
-                        <div class="item">
-                            <div class="gt_courses_wrap default_width">
-                                <figure>
-                                    <img src="extra-images/courses-01.jpg" alt="">
-                                    <figcaption class="gt_course_img_des">
-                                        <div class="gt_course_des_holder">
-                                            <div class="gt_course_author">
-                                                <img src="extra-images/testimonial-01.jpg" alt="">
-                                                <a href="#"><i class="fa fa-user"></i>Susan jones</a>
-                                            </div>
-                                            <ul class="gt_rating_star">
-                                                <li>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="gt_course_cat gt_bg_4">New</div>
-                                    </figcaption>
-                                </figure>
-                                <div class="gt_course_des default_width">
-                                    <span>Start Date June 28, 2016</span>
-                                    <h5><a href="#">Political Science Course</a></h5>
-                                    <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sitamet,colortetue radiois elit, aliquam eget </p>
-                                </div>
-                                <div class="gt_course_bottom default_width">
-                                    <h5>$65<span>Per Month</span></h5>
-                                    <a href="#">Add to favorities</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="gt_courses_wrap default_width">
-                                <figure>
-                                    <img src="extra-images/courses-02.jpg" alt="">
-                                    <figcaption class="gt_course_img_des">
-                                        <div class="gt_course_des_holder">
-                                            <div class="gt_course_author">
-                                                <img src="extra-images/testimonial-02.jpg" alt="">
-                                                <a href="#"><i class="fa fa-user"></i>Susan jones</a>
-                                            </div>
-                                            <ul class="gt_rating_star">
-                                                <li>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="gt_course_cat gt_bg_4">New</div>
-                                    </figcaption>
-                                </figure>
-                                <div class="gt_course_des default_width">
-                                    <span>Start Date June 28, 2016</span>
-                                    <h5><a href="#">Political Science Course</a></h5>
-                                    <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sitamet,colortetue radiois elit, aliquam eget </p>
-                                </div>
-                                <div class="gt_course_bottom default_width">
-                                    <h5>$65<span>Per Month</span></h5>
-                                    <a href="#">Add to favorities</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="gt_courses_wrap default_width">
-                                <figure>
-                                    <img src="extra-images/courses-03.jpg" alt="">
-                                    <figcaption class="gt_course_img_des">
-                                        <div class="gt_course_des_holder">
-                                            <div class="gt_course_author">
-                                                <img src="extra-images/testimonial-03.jpg" alt="">
-                                                <a href="#"><i class="fa fa-user"></i>Susan jones</a>
-                                            </div>
-                                            <ul class="gt_rating_star">
-                                                <li>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="gt_course_cat gt_bg_4">New</div>
-                                    </figcaption>
-                                </figure>
-                                <div class="gt_course_des default_width">
-                                    <span>Start Date June 28, 2016</span>
-                                    <h5><a href="#">Political Science Course</a></h5>
-                                    <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sitamet,colortetue radiois elit, aliquam eget </p>
-                                </div>
-                                <div class="gt_course_bottom default_width">
-                                    <h5>$65<span>Per Month</span></h5>
-                                    <a href="#">Add to favorities</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="gt_courses_wrap default_width">
-                                <figure>
-                                    <img src="extra-images/courses-04.jpg" alt="">
-                                    <figcaption class="gt_course_img_des">
-                                        <div class="gt_course_des_holder">
-                                            <div class="gt_course_author">
-                                                <img src="extra-images/testimonial-04.jpg" alt="">
-                                                <a href="#"><i class="fa fa-user"></i>Susan jones</a>
-                                            </div>
-                                            <ul class="gt_rating_star">
-                                                <li>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                    <a href="#"><i class="fa fa-star"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="gt_course_cat gt_bg_4">New</div>
-                                    </figcaption>
-                                </figure>
-                                <div class="gt_course_des default_width">
-                                    <span>Start Date June 28, 2016</span>
-                                    <h5><a href="#">Political Science Course</a></h5>
-                                    <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sitamet,colortetue radiois elit, aliquam eget </p>
-                                </div>
-                                <div class="gt_course_bottom default_width">
-                                    <h5>$65<span>Per Month</span></h5>
-                                    <a href="#">Add to favorities</a>
-                                </div>
-                            </div>
+                            <a href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
                         </div>
                     </div>
-                    <!--Courses List Wrap End-->
+                    <div class="col-md-4 col-sm-6 wow slideInUp">
+                        <div class="gt_blog_wrap default_width mb30">
+                            <figure>
+                                <img src="extra-images/blog-grid-02.jpg" alt="">
+                                <figcaption class="gt_gallery_style1_des">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                        <li><a href="extra-images/gallery-01.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
+                                    </ul>
+                                    <h3>Business Conference UK</h3>
+                                </figcaption>
+                            </figure>
+                            <div class="gt_blog_des default_width">
+                                <ul class="gt_event_meta">
+                                    <li><i class="fa fa-calendar"></i>8:00 am-5:00</li>
+                                    <li><i class="fa fa-user"></i>Locaion London</li>
+                                </ul>
+                                <h6><a href="#">Along Communicate Directly With Experienced Teachers</a></h6>
+                                <p>Leo a feugiat metus semper torquent condimentum, ornare interdum suspendisse neque ultrices adipiscing, risus bibendum ultricies sagittis</p>
+                            </div>
+                            <a href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 wow slideInUp">
+                        <div class="gt_blog_wrap default_width mb30">
+                            <figure>
+                                <img src="extra-images/blog-grid-03.jpg" alt="">
+                                <figcaption class="gt_gallery_style1_des">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                        <li><a href="extra-images/gallery-01.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
+                                    </ul>
+                                    <h3>Business Conference UK</h3>
+                                </figcaption>
+                            </figure>
+                            <div class="gt_blog_des default_width">
+                                <ul class="gt_event_meta">
+                                    <li><i class="fa fa-calendar"></i>8:00 am-5:00</li>
+                                    <li><i class="fa fa-user"></i>Locaion London</li>
+                                </ul>
+                                <h6><a href="#">Along Communicate Directly With Experienced Teachers</a></h6>
+                                <p>Leo a feugiat metus semper torquent condimentum, ornare interdum suspendisse neque ultrices adipiscing, risus bibendum ultricies sagittis</p>
+                            </div>
+                            <a href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!--Blog grid Wrap End-->
                 </div>
             </section>
             <!--Explore All Courses Wrap Start-->
@@ -344,263 +250,12 @@
             </section>
             <!--Why Choose Us Wrap End-->
 
-            <!--Campus Life and Activities Wrap Start-->
-            <section class="gt_campus_bg">
-                <div class="container">
-                    <!--Heading Wrap Start-->
-                    <div class="gt_hdg_1 default_width">
-                        <h3>Campus life &#38;  Activities</h3>
-                        <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sit amet,color<br>tetuer adiois elit, aliquam eget nibh etibra</p>
-                        <span class="gt_hdg_left"></span>
-                        <i class="icon-school"></i>
-                        <span class="gt_hdg_right"></span>
-                    </div>
-                    <!--Heading Wrap End-->
-                </div>
-
-                <!--Gallery List Wrap Start-->
-                <div class="col-md-3 col-sm-6 no_padding wow slideInUp">
-                    <div class="gt_gallery_style1">
-                        <figure>
-                            <img src="extra-images/gallery-01.jpg" alt="">
-                        </figure>
-                        <div class="gt_gallery_style1_des">
-                            <ul>
-                                <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                <li><a href="extra-images/gallery-01.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
-                            </ul>
-                            <h3>Business Conference UK</h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 no_padding wow slideInUp">
-                    <div class="gt_gallery_style1">
-                        <figure>
-                            <img src="extra-images/gallery-02.jpg" alt="">
-                        </figure>
-                        <div class="gt_gallery_style1_des">
-                            <ul>
-                                <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                <li><a href="extra-images/gallery-01.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
-                            </ul>
-                            <h3>Business Conference UK</h3>
-                        </div>
-                    </div>
-                    <div class="gt_gallery_style1">
-                        <figure>
-                            <img src="extra-images/gallery-03.jpg" alt="">
-                        </figure>
-                        <div class="gt_gallery_style1_des">
-                            <ul>
-                                <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                <li><a href="extra-images/gallery-01.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
-                            </ul>
-                            <h3>Business Conference UK</h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 no_padding wow slideInUp">
-                    <div class="gt_gallery_style1">
-                        <figure>
-                            <img src="extra-images/gallery-04.jpg" alt="">
-                        </figure>
-                        <div class="gt_gallery_style1_des">
-                            <ul>
-                                <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                <li><a href="extra-images/gallery-01.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
-                            </ul>
-                            <h3>Business Conference UK</h3>
-                        </div>
-                    </div>
-                    <div class="gt_gallery_style1">
-                        <figure>
-                            <img src="extra-images/gallery-05.jpg" alt="">
-                        </figure>
-                        <div class="gt_gallery_style1_des">
-                            <ul>
-                                <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                <li><a href="extra-images/gallery-01.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
-                            </ul>
-                            <h3>Business Conference UK</h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 no_padding wow slideInUp">
-                    <div class="gt_gallery_style1">
-                        <figure>
-                            <img src="extra-images/gallery-06.jpg" alt="">
-                        </figure>
-                        <div class="gt_gallery_style1_des">
-                            <ul>
-                                <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                <li><a href="extra-images/gallery-01.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a></li>
-                            </ul>
-                            <h3>Business Conference UK</h3>
-                        </div>
-                    </div>
-                </div>
-                <!--Gallery List Wrap End-->
-            </section>
-            <!--Campus Life and Activities Wrap End-->
-
-            <!--Facts and Figure Wrap Start-->
-            <section class="gt_fact_bg">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-3 col-sm-6 wow slideInUp">
-                            <div class="gt_number_count_wrap gt_bg_14">
-                                <i class="icon-books-stack-from-top-view"></i>
-                                <h4 class="counter"> 245 </h4>
-                                <span>+</span>
-                                <h5><a href="#">Courses</a></h5>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6 wow slideInUp">
-                            <div class="gt_number_count_wrap gt_bg_15">
-                                <i class="icon-avatar"></i>
-                                <h4 class="counter"> 7450 </h4>
-                                <span>+</span>
-                                <h5><a href="#">Student Unrolled</a></h5>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6 wow slideInUp">
-                            <div class="gt_number_count_wrap gt_bg_16">
-                                <i class="icon-education"></i>
-                                <h4 class="counter"> 350 </h4>
-                                <span>+</span>
-                                <h5><a href="#">Qualified Teacher</a></h5>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6 wow slideInUp">
-                            <div class="gt_number_count_wrap gt_bg_17">
-                                <i class="icon-cup-1"></i>
-                                <h4 class="counter"> 289 </h4>
-                                <span>+</span>
-                                <h5><a href="#">Awards</a></h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!--Facts and Figure Wrap End-->
-
-            <!--Meet Our Teacher Wrap Start-->
-            <section>
-                <div class="container">
-                    <!--Heading Wrap Start-->
-                    <div class="gt_hdg_1 default_width">
-                        <h3>Meet our teacher</h3>
-                        <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sit amet,color<br>tetuer adiois elit, aliquam eget nibh etibra</p>
-                        <span class="gt_hdg_left"></span>
-                        <i class="icon-school"></i>
-                        <span class="gt_hdg_right"></span>
-                    </div>
-                    <!--Heading Wrap End-->
-
-                    <!--Meet Teacher List Wrap Start-->
-                    <div class="gt_teacher_slider" id="gt_teacher_slider">
-                        <div class="item wow slideInUp">
-                            <div class="gt_team_wrap default_width">
-                                <figure>
-                                    <img src="extra-images/teacher-01.jpg" alt="">
-                                </figure>
-                                <div class="gt_team_des default_width">
-                                    <h6><a href="#">lana Deo</a></h6>
-                                    <span>Chemistry Teacher</span>
-                                    <ul class="gt_scl_icon">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                    </ul>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item wow slideInUp">
-                            <div class="gt_team_wrap default_width">
-                                <figure>
-                                    <img src="extra-images/teacher-02.jpg" alt="">
-                                </figure>
-                                <div class="gt_team_des default_width">
-                                    <h6><a href="#">lana Deo</a></h6>
-                                    <span>Chemistry Teacher</span>
-                                    <ul class="gt_scl_icon">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                    </ul>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item wow slideInUp">
-                            <div class="gt_team_wrap default_width">
-                                <figure>
-                                    <img src="extra-images/teacher-03.jpg" alt="">
-                                </figure>
-                                <div class="gt_team_des default_width">
-                                    <h6><a href="#">lana Deo</a></h6>
-                                    <span>Chemistry Teacher</span>
-                                    <ul class="gt_scl_icon">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                    </ul>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item wow slideInUp">
-                            <div class="gt_team_wrap default_width">
-                                <figure>
-                                    <img src="extra-images/teacher-04.jpg" alt="">
-                                </figure>
-                                <div class="gt_team_des default_width">
-                                    <h6><a href="#">lana Deo</a></h6>
-                                    <span>Chemistry Teacher</span>
-                                    <ul class="gt_scl_icon">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                    </ul>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item wow slideInUp">
-                            <div class="gt_team_wrap default_width">
-                                <figure>
-                                    <img src="extra-images/teacher-05.jpg" alt="">
-                                </figure>
-                                <div class="gt_team_des default_width">
-                                    <h6><a href="#">lana Deo</a></h6>
-                                    <span>Chemistry Teacher</span>
-                                    <ul class="gt_scl_icon">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                    </ul>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Meet Teacher List Wrap End-->
-                </div>
-            </section>
-            <!--Meet Our Teacher Wrap End-->
-
             <!--Testimonial Wrap Start-->
             <section class="gt_testimonial_bg">
                 <div class="container">
                     <!--Heading Wrap Start-->
                     <div class="gt_hdg_1 white_color default_width">
-                        <h3>What People say about us</h3>
+                        <h3>What Student say about us</h3>
                         <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sit amet,color<br>tetuer adiois elit, aliquam eget nibh etibra</p>
                         <span class="gt_hdg_left"></span>
                         <i class="icon-school"></i>
@@ -677,8 +332,7 @@
                 <div class="container">
                     <!--Heading Wrap Start-->
                     <div class="gt_hdg_1 default_width">
-                        <h3>Upcoming Conferences &#38; Events</h3>
-                        <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sit amet,color<br>tetuer adiois elit, aliquam eget nibh etibra</p>
+                        <h3>Upcoming Events</h3>
                         <span class="gt_hdg_left"></span>
                         <i class="icon-school"></i>
                         <span class="gt_hdg_right"></span>
@@ -697,46 +351,15 @@
                                 <ul>
                                     <li>
                                         <div class="gt_event_date">
-                                            <h3>01</h3>
-                                            <span>September</span>
+                                            <h3>22</h3>
+                                            <span>March</span>
                                         </div>
                                         <div class="gt_event_des">
-                                            <h4><a href="#">Education Development expo</a></h4>
+                                            <h4><a href="#">Digital Literacy Workshop</a></h4>
                                             <ul class="gt_event_meta">
-                                                <li><i class="fa fa-clock-o"></i>8:00 am-5:00</li>
-                                                <li><i class="fa fa-location-arrow"></i>Locaion London</li>
+                                                <li><i class="fa fa-location-arrow"></i>Locaion: IP College For Women, DU</li>
                                             </ul>
-                                            <p>Mrboie accuman veiit. anme a aodio tincggaej aucci aoreant sen nin ite reat concuat..</p>
-                                            <a href="#">Read More</a>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="gt_event_date">
-                                            <h3>01</h3>
-                                            <span>September</span>
-                                        </div>
-                                        <div class="gt_event_des">
-                                            <h4><a href="#">Education Development expo</a></h4>
-                                            <ul class="gt_event_meta">
-                                                <li><i class="fa fa-clock-o"></i>8:00 am-5:00</li>
-                                                <li><i class="fa fa-location-arrow"></i>Locaion London</li>
-                                            </ul>
-                                            <p>Mrboie accuman veiit. anme a aodio tincggaej aucci aoreant sen nin ite reat concuat..</p>
-                                            <a href="#">Read More</a>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="gt_event_date">
-                                            <h3>01</h3>
-                                            <span>September</span>
-                                        </div>
-                                        <div class="gt_event_des">
-                                            <h4><a href="#">Education Development expo</a></h4>
-                                            <ul class="gt_event_meta">
-                                                <li><i class="fa fa-clock-o"></i>8:00 am-5:00</li>
-                                                <li><i class="fa fa-location-arrow"></i>Locaion London</li>
-                                            </ul>
-                                            <p>Mrboie accuman veiit. anme a aodio tincggaej aucci aoreant sen nin ite reat concuat..</p>
+                                            <p>We're conducting a 3 day workshop, starting from 22 March, to spread digital literacy.</p>
                                             <a href="#">Read More</a>
                                         </div>
                                     </li>
