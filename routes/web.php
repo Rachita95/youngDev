@@ -34,5 +34,18 @@ Route::get('/organising-slides', 'TutorialsController@impressOrganisingSlides');
 Route::get('/slide-transition', 'TutorialsController@impressSlideTransition');
 /**********************************************************/
 
+/** openoffice impress *********************************/
+Route::get('/digilocker-introduction', 'TutorialsController@digilockerIntro');
+Route::get('/digilocker-user-id-creation', 'TutorialsController@digilockerUserIdCreation');
+Route::get('/digilocker-sign-in', 'TutorialsController@digilockerSignIn');
+Route::get('/digilocker-uploading-documents', 'TutorialsController@digilockerUploadDocuments');
+Route::get('/digilocker-view-certificates', 'TutorialsController@digilockerViewCertificates');
+Route::get('/digilocker-esign-documents', 'TutorialsController@digilockerESignDocument');
+Route::get('/digilocker-share-document', 'TutorialsController@digilockerShareDocument');
+Route::get('/digilocker-view-issued-documents', 'TutorialsController@digilockerViewIssuedDocument');
+Route::get('/digilocker-view-activity', 'TutorialsController@digilockerViewActivity');
+Route::get('/digilocker-view-issuers', 'TutorialsController@digilockerViewIssuers');
+
+/**********************************************************/
 
  /*******************************************************/

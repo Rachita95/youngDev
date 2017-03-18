@@ -47,5 +47,48 @@ class TutorialsController extends Controller
 
     /** **************************************************** */
 
+    /********** digilocker *************/
+    public function digilockerIntro()
+    {
+        return view('tutorials/digilocker/introduction');
+    }
+    public function digilockerUserIdCreation()
+    {
+        return view('tutorials/digilocker/user_id_creation');
+    }
+    public function digilockerSignIn()
+    {
+        return view('tutorials/digilocker/sign_in');
+    }
+    public function digilockerUploadDocuments()
+    {
+        return view('tutorials/digilocker/upload_documents');
+    }
+    public function digilockerViewCertificates()
+    {
+        return view('tutorials/digilocker/view_certificates');
+    }
+    public function digilockerESignDocument()
+    {
+        return view('tutorials/digilocker/esign_document');
+    }
+    public function digilockerShareDocument()
+    {
+        return view('tutorials/digilocker/share_document');
+    }
+    public function digilockerViewIssuedDocument()
+    {
+        return view('tutorials/digilocker/view_issued_document');
+    }
+    public function digilockerViewActivity()
+    {
+        return view('tutorials/digilocker/view_activity');
+    }
+    public function digilockerViewIssuers()
+    {
+        return view('tutorials/digilocker/view_issuers');
+    }
+
+    /** **************************************************** */
 
 }
