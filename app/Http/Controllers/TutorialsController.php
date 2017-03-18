@@ -47,5 +47,48 @@ class TutorialsController extends Controller
 
     /** **************************************************** */
 
+    /**********open office install*************/
+    public function officeIntro()
+    {
+        return view('tutorials/installation/what_is_openoffice');
+    }
+    public function officeInstall()
+    {
+        return view('tutorials/installation/download_install');
+    }
+    public function officeFirstTime()
+    {
+        return view('tutorials/installation/first_time');
+    }
+    /** **************************************************** */
+
+
+    /**********open office writer *************/
+    public function writerIntro()
+    {
+        return view('tutorials/openoffice_writer/what_is_writer');
+    }
+    public function writerStart()
+    {
+        return view('tutorials/openoffice_writer/my_first_document');
+    }
+    public function writerTextBasics()
+    {
+        return view('tutorials/openoffice_writer/text_basics');
+    }
+    public function writerTextFormatting()
+    {
+        return view('tutorials/openoffice_writer/text_formatting');
+    }
+    public function writerGraphics()
+    {
+        return view('tutorials/openoffice_writer/graphics');
+    }
+    public function writerTables()
+    {
+        return view('tutorials/openoffice_writer/tables');
+    }
+    /** **************************************************** */
+
 
 }

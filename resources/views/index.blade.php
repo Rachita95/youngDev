@@ -46,17 +46,17 @@
                         <div class="col-md-4 no_padding wow slideInUp">
                             <div class="gt_banner_service service_bg_1 default_width" style="background-image:url(extra-images/courses-01.jpg);">
                                 <i class="icon-commerce"></i>
-                                <h4><a href="">OPENOFFICE INSTALLATION</a></h4>
+                                <h4><a href="/what-is-openoffice">OPENOFFICE INSTALLATION</a></h4>
                                 <p>Consectetur adipisicing elit</p>
-                                <a href="">View More</a>
+                                <a href="/what-is-openoffice">View More</a>
                             </div>
                         </div>
                         <div class="col-md-4 no_padding wow slideInUp">
                             <div class="gt_banner_service service_bg_2 default_width" style="background-image:url(extra-images/courses-02.jpg);">
                                 <i class="icon-computer-1"></i>
-                                <h4><a href="">OPENOFFICE WRITER</a></h4>
+                                <h4><a href="/what-is-writer">OPENOFFICE WRITER</a></h4>
                                 <p>Consectetur adipisicing elit</p>
-                                <a href="">View More</a>
+                                <a href="/what-is-writer">View More</a>
                             </div>
                         </div>
                         <div class="col-md-4 no_padding wow slideInUp">
