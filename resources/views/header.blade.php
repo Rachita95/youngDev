@@ -51,7 +51,7 @@
             <div class="container">
                 <!--Logo Wrap Start-->
                 <div class="gt_logo">
-                    <a href="#"><img src="images/logo.png" alt=""></a>
+                    <a href="#"><img src="images/logo.jpeg" alt="" style="height: 60px; width: 147px;"></a>
                 </div>
                 <!--Logo Wrap End-->
                 <!--Search Wrap Start-->

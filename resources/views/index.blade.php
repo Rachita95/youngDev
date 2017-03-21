@@ -1,47 +1,27 @@
     @include('header')
         <!--Banner Wrap Start-->
-        <div class="gt_banner default_width">
-            <div class="swiper-container" id="swiper-container">
-                <ul class="swiper-wrapper">
-                    <li class="swiper-slide">
-                        <img src="extra-images/banner-01.jpg" alt="">
-                        <div class="gt_banner_text gt_slide_1">
-                            <h3>What would you like to learn</h3>
-                            <h2>Complete Education Solution</h2>
-                            <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sit amet,color dolor sit amet</p>
-                            <a href="#">see More<i class="fa fa-arrow-right"></i></a>
-                        </div>
-                    </li>
-                    <li class="swiper-slide">
-                        <img src="extra-images/banner-02.jpg" alt="">
-                        <div class="gt_banner_text gt_slide_2">
-                            <h3>What would you like to learn</h3>
-                            <h2>Complete Education Solution</h2>
-                            <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sit amet,color dolor sit amet</p>
-                            <a href="#">see More<i class="fa fa-arrow-right"></i></a>
-                        </div>
-                    </li>
-                    <li class="swiper-slide">
-                        <img src="extra-images/banner-03.jpg" alt="">
-                        <div class="gt_banner_text gt_slide_3">
-                            <h3>What would you like to learn</h3>
-                            <h2>Complete Education Solution</h2>
-                            <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sit amet,color dolor sit amet</p>
-                            <a href="#">see More<i class="fa fa-arrow-right"></i></a>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-            <div class="swiper-button-next"><i class="fa fa-angle-right"></i></div>
-            <div class="swiper-button-prev"><i class="fa fa-angle-left"></i></div>
+    <div class="gt_banner default_width">
+        <div class="swiper-container">
+            <ul class="swiper-wrapper">
+                <li class="swiper-slide index_static" style="background-attachment:fixed; background-size:cover; background-position:bottom;background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(extra-images/comp.jpg);">
+                    <div class="gt_banner_text gt_slide_2">
+                        <h3>What would you like to learn</h3>
+                        <h2>We offer a variety of resourses for learning </h2>
+                        <p>Go through our courses, we bet you'll fall in love with them</p>
+                        <a href="#courses">Explore More<i class="fa fa-arrow-right"></i></a>
+                    </div>
+                </li>
+            </ul>
         </div>
+    </div>
         <!--Banner Wrap End-->
 
         <!--Main Content Wrap Start-->
         <div class="gt_content_wrap">
             <!--Banner Services Wrap Start-->
             <div class="gt_banner_service_wrap default_width">
-                <div class="container">
+                <div id="courses">
+                <div class="container ">
                     <div class="row">
                         <div class="col-md-4 no_padding wow slideInUp">
                             <div class="gt_banner_service service_bg_1 default_width" style="background-image:url(extra-images/courses-01.jpg);">
@@ -88,6 +68,7 @@
                             </div>
                         </div>
                     </div>
+                </div>
                 </div>
             </div>
             <!--Banner Services Wrap End-->
@@ -183,7 +164,7 @@
                     <!--Heading Wrap Start-->
                     <div class="gt_hdg_1 default_width">
                         <h3>Why Choose Us</h3>
-                        <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sit amet,color<br>tetuer adiois elit, aliquam eget nibh etibra</p>
+
                         <span class="gt_hdg_left"></span>
                         <i class="icon-school"></i>
                         <span class="gt_hdg_right"></span>
@@ -248,8 +229,7 @@
                 <div class="container">
                     <!--Heading Wrap Start-->
                     <div class="gt_hdg_1 white_color default_width">
-                        <h3>What Student say about us</h3>
-                        <p>Aenean commodo ligal geate dolor. Aenan massa. Loren ipsum dolor sit amet,color<br>tetuer adiois elit, aliquam eget nibh etibra</p>
+                        <h3>"We want to have one mission and target: take the nation forward-digitally " -Narendra Modi</h3>
                         <span class="gt_hdg_left"></span>
                         <i class="icon-school"></i>
                         <span class="gt_hdg_right"></span>
@@ -257,64 +237,7 @@
                     <!--Heading Wrap End-->
 
                     <!--Testimonial List Wrap Start-->
-                    <div class="gt_testimonial_slider" id="gt_testimonial_slider">
-                        <div class="item wow slideInUp">
-                            <div class="gt_testimonial_wrap gt_bg_18">
-                                <p>Proactively ipsum media appropriately materials without lorem networks that native cultivate daycare without client locavoire is evolve cross unit dolore niet.</p>
-                            </div>
-                            <div class="gt_testimonial_img">
-                                <figure>
-                                    <img src="extra-images/testimonial-01.jpg" alt="">
-                                </figure>
-                                <div class="gt_testimonial_des">
-                                    <h5><a href="#">Jenishah Smith Deo</a></h5>
-                                    <span>Student at campus</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item wow slideInUp">
-                            <div class="gt_testimonial_wrap gt_bg_19">
-                                <p>Proactively ipsum media appropriately materials without lorem networks that native cultivate daycare without client locavoire is evolve cross unit dolore niet.</p>
-                            </div>
-                            <div class="gt_testimonial_img">
-                                <figure>
-                                    <img src="extra-images/testimonial-02.jpg" alt="">
-                                </figure>
-                                <div class="gt_testimonial_des">
-                                    <h5><a href="#">Jenishah Smith Deo</a></h5>
-                                    <span>Student at campus</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item wow slideInUp">
-                            <div class="gt_testimonial_wrap gt_bg_20">
-                                <p>Proactively ipsum media appropriately materials without lorem networks that native cultivate daycare without client locavoire is evolve cross unit dolore niet.</p>
-                            </div>
-                            <div class="gt_testimonial_img">
-                                <figure>
-                                    <img src="extra-images/testimonial-03.jpg" alt="">
-                                </figure>
-                                <div class="gt_testimonial_des">
-                                    <h5><a href="#">Jenishah Smith Deo</a></h5>
-                                    <span>Student at campus</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item wow slideInUp">
-                            <div class="gt_testimonial_wrap gt_bg_19">
-                                <p>Proactively ipsum media appropriately materials without lorem networks that native cultivate daycare without client locavoire is evolve cross unit dolore niet.</p>
-                            </div>
-                            <div class="gt_testimonial_img">
-                                <figure>
-                                    <img src="extra-images/testimonial-04.jpg" alt="">
-                                </figure>
-                                <div class="gt_testimonial_des">
-                                    <h5><a href="#">Jenishah Smith Deo</a></h5>
-                                    <span>Student at campus</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+
                     <!--Testimonial List Wrap End-->
                 </div>
             </section>
